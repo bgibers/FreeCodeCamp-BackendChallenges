@@ -2,6 +2,7 @@
 	"author": "Brendan Giberson",
 	"description": "A dummy npm package",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "test", "demo", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
